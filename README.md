@@ -11,8 +11,7 @@ To use this program, you will need to set up an `.env` file with your OpenAI API
 Create a file called `.env` in the root directory of this project. Add the following lines to your `.env` file, replacing `YOUR_API_KEY` with your OpenAI API key:
 
 
-```makefile
-OPENAI_API_KEY=YOUR_API_KEY
+```OPENAI_API_KEY=YOUR_API_KEY ```
 
 ### Data Files
 
